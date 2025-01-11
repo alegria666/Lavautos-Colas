@@ -1,10 +1,7 @@
-# Lavautos-Colas
-Programa realizado para evidenciar el funcionamiento de la estructura de datos: Colas. Para más información leer archivo README
-
 # Lavautos - Gestión de Vehículos
 
 Este proyecto es una aplicación gráfica desarrollada en Python que permite gestionar los datos de un lavautos. 
-Los vehículos se organizan y se "encolan" según su tipo, aunque no necesariamente se utiliza la estructura de datos 
+Los vehículos se organizan y se "encolan" según su tipo, utilizando la estructura de datos 
 Cola. El proyecto fue presentado como trabajo para la materia de **Estructuras de Datos**.
 
 ## Características
