@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación gráfica desarrollada en Python que permite gestionar los datos de un lavautos. 
 Los vehículos se organizan y se "encolan" según su tipo, utilizando la estructura de datos 
-Cola. El proyecto fue presentado como trabajo para la materia de **Estructuras de Datos**.
+*Colas*. El proyecto fue presentado como proyecto para la materia de **Estructuras de Datos**.
 
 ## Características
 - Gestión de vehículos (dueño, placa, tipo).
