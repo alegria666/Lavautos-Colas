@@ -18,7 +18,7 @@ Cola. El proyecto fue presentado como trabajo para la materia de **Estructuras d
 ## Instrucciones de Instalación
 1. Clona el repositorio o descarga el proyecto.
    ```bash
-   git clone https://github.com/TU_USUARIO/LAVAUTOS.git
+   git clone https://github.com/alegria666/Lavautos-Colas.git
    cd LAVAUTOS
    ```
 2. Instala las dependencias necesarias.
