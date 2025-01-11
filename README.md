@@ -19,7 +19,6 @@ Los vehículos se organizan y se "encolan" según su tipo, utilizando la estruct
 1. Clona el repositorio o descarga el proyecto.
    ```bash
    git clone https://github.com/alegria666/Lavautos-Colas.git
-   cd LAVAUTOS
    ```
 2. Instala las dependencias necesarias.
    ```bash
@@ -38,7 +37,7 @@ Los vehículos se organizan y se "encolan" según su tipo, utilizando la estruct
 
 ## Estructura del Proyecto
 ```
-LAVAUTOS/
+Lavautos-Colas/
 ├── lavautos.py                    # Archivo principal
 ├── estructura/
 │   └── secuenciales/
