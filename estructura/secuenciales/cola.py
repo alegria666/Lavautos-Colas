@@ -1,5 +1,4 @@
 #Daniel Esteban Alegría Zamora
-#Luis Alejandro Gordillo Guerrero
 
 class NodoLSE:
     def __init__(self, dato):
